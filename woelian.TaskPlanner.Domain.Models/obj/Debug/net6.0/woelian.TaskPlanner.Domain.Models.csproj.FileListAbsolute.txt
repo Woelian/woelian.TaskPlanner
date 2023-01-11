@@ -1,0 +1,12 @@
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Models.deps.json
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Models.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Models.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Models.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\fovox.TaskPlanner.Domain.Models.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Models.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\fovox.TaskPlanner.Domain.Models.dll

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\fovox.TaskPlanner.ConsoleRunner",
+    "\\fovox.TaskPlanner.ConsoleRunner\\bin",
+    "\\fovox.TaskPlanner.ConsoleRunner\\bin\\Debug",
+    "\\fovox.TaskPlanner.ConsoleRunner\\bin\\Debug\\net6.0",
+    "\\fovox.TaskPlanner.DataAccess",
+    "\\fovox.TaskPlanner.DataAccess.Abstractions",
+    "\\fovox.TaskPlanner.Domain.Logic",
+    "\\fovox.TaskPlanner.Domain.Logic.Tests",
+    "\\fovox.TaskPlanner.Domain.Models"
+  ],
+  "PreviewInSolutionExplorer": false
+}

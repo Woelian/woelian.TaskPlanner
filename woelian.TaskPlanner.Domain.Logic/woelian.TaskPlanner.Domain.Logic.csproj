@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\woelian.TaskPlanner.DataAccess.Abstractions\woelian.TaskPlanner.DataAccess.Abstractions.csproj" />
+    <ProjectReference Include="..\woelian.TaskPlanner.Domain.Models\woelian.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

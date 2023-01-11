@@ -1,0 +1,17 @@
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.deps.json
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Models.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Models.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.csproj.CopyComplete
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\fovox.TaskPlanner.Domain.Logic.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\fovox.TaskPlanner.Domain.Logic.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\fovox.TaskPlanner.Domain.Logic.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\bin\Debug\net6.0\fovox.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.Domain.Logic\bin\Debug\net6.0\fovox.TaskPlanner.DataAccess.Abstractions.pdb

@@ -1,0 +1,42 @@
+[
+    {
+        "Id": "83c25647-a026-4f8b-8429-15d80b84bf12",
+        "CreationDate": "2022-11-11T21:38:24.1721126+02:00",
+        "DueDate": "2022-11-12T00:00:00",
+        "Priority": 1,
+        "Complexity": 0,
+        "Title": "Visit gym",
+        "Description": "",
+        "IsCompleted": false
+    },
+    {
+        "Id": "5b2d595d-1632-4af6-85fe-c25251ebff82",
+        "CreationDate": "2022-11-11T21:38:50.719087+02:00",
+        "DueDate": "2022-11-13T00:00:00",
+        "Priority": 3,
+        "Complexity": 2,
+        "Title": "Sleep",
+        "Description": "-",
+        "IsCompleted": false
+    },
+    {
+        "Id": "e7348637-3f79-4dc2-b2bd-12e600876b85",
+        "CreationDate": "2022-11-11T21:43:49.1744435+02:00",
+        "DueDate": "2022-11-14T00:00:00",
+        "Priority": 2,
+        "Complexity": 0,
+        "Title": "Study c#",
+        "Description": "-",
+        "IsCompleted": false
+    },
+    {
+        "Id": "2e5a29d5-9737-4884-b0fa-e28a5f806079",
+        "CreationDate": "2022-11-11T21:44:27.0949122+02:00",
+        "DueDate": "2022-11-16T00:00:00",
+        "Priority": 3,
+        "Complexity": 0,
+        "Title": "Buy bananas",
+        "Description": "-",
+        "IsCompleted": false
+    }
+]

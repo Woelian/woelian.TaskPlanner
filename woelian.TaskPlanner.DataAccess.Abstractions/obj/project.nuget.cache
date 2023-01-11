@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vPqGWlK4Go2NskGZl7Zpp355SkNYokcZc/0PjRTpPLZm58idQbC6qj/GO03Gi1g0y4Ps4Mv+HdFK8uF4VpmUeQ==",
+  "success": true,
+  "projectFilePath": "D:\\woelian.TaskPlanner\\woelian.TaskPlanner.DataAccess.Abstractions\\woelian.TaskPlanner.DataAccess.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yurii\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\yurii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\yurii\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

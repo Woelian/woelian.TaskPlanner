@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "fovox.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "fovox.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "fovox.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
+      "fovox.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "fovox.TaskPlanner.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fovox.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fovox.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\bin\Debug\net6.0\fovox.TaskPlanner.DataAccess.deps.json
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\bin\Debug\net6.0\fovox.TaskPlanner.DataAccess.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\bin\Debug\net6.0\fovox.TaskPlanner.DataAccess.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\bin\Debug\net6.0\fovox.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Models.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\bin\Debug\net6.0\fovox.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\bin\Debug\net6.0\fovox.TaskPlanner.Domain.Models.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.csproj.CopyComplete
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\refint\fovox.TaskPlanner.DataAccess.dll
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\fovox.TaskPlanner.DataAccess.pdb
+C:\Users\fovox\Documents\GitHub\vntu-dotnet\TaskPlanner\fovox.TaskPlanner\fovox.TaskPlanner.DataAccess\obj\Debug\net6.0\ref\fovox.TaskPlanner.DataAccess.dll
